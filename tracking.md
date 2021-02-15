@@ -20,3 +20,11 @@
 ### Plugin para reforçar as regras dos hooks
 
 `yarn add eslint-plugin-react-hooks --dev`
+
+## Configurando Prettier
+### Instalar
+`yarn add prettier --dev --exact`
+
+### Integrar com ESLint
+`yarn add --dev eslint-config-prettier eslint-plugin-prettier`
+
