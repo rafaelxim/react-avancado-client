@@ -17,18 +17,21 @@
 
 `yarn add --dev eslint-plugin-react@latest @typescript-eslint/eslint-plugin@latest @typescript-eslint/parser@latest eslint@latest`
 
-### Plugin para reforçar as regras dos hooks
+## Plugin para reforçar as regras dos hooks
 
 `yarn add eslint-plugin-react-hooks --dev`
 
 ## Configurando Prettier
-### Instalar
+#### Instalar
 `yarn add prettier --dev --exact`
 
-### Integrar com ESLint
+#### Integrar com ESLint
 `yarn add --dev eslint-config-prettier eslint-plugin-prettier`
 
 ## Git Hook
 Executa validações antes de executar os comandos do GIT.
 
 `yarn add husky@4.3.8 lint-staged`
+
+## Configurando Jest
+`yarn add --dev jest @babel/preset-typescript @types/jest `
