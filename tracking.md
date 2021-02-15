@@ -28,4 +28,7 @@
 ### Integrar com ESLint
 `yarn add --dev eslint-config-prettier eslint-plugin-prettier`
 
- 
+## Git Hook
+Executa validações antes de executar os comandos do GIT.
+
+`yarn add husky@4.3.8 lint-staged`
