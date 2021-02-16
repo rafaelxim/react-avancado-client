@@ -35,3 +35,6 @@ Executa validações antes de executar os comandos do GIT.
 
 ## Configurando Jest
 `yarn add --dev jest @babel/preset-typescript @types/jest `
+
+## Configurando React Testing Library + Jest Dom
+yarn add --dev @testing-library/react @testing-library/jest-dom
