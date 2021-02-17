@@ -42,3 +42,6 @@ Executa validações antes de executar os comandos do GIT.
 ## Configurando o styled components
 `yarn add --dev @types/styled-components babel-plugin-styled-components`
 `yarn add styled-components`
+
+## Melhorias Snapshot (jest styled components)
+`yarn add --dev jest-styled-components`
