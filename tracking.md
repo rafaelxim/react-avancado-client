@@ -45,3 +45,6 @@ Executa validações antes de executar os comandos do GIT.
 
 ## Melhorias Snapshot (jest styled components)
 `yarn add --dev jest-styled-components`
+
+## Storybook
+`npx sb init`
